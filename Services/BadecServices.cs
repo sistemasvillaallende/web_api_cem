@@ -10,6 +10,7 @@ namespace Web_Api_Cem.Services
     {
         public void delete(int nro_bad)
         {
+            //prueba commit
             try
             {
                 Entities.BADEC.delete(nro_bad);
