@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Net2022\\Web_Api_Cem\\Web_Api_Cem\\Web_Api_Cem.csproj": {}
+    "D:\\Dev\\Net2022\\Web_Api_Cem2\\Web_Api_Cem.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Net2022\\Web_Api_Cem\\Web_Api_Cem\\Web_Api_Cem.csproj": {
+    "D:\\Dev\\Net2022\\Web_Api_Cem2\\Web_Api_Cem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Net2022\\Web_Api_Cem\\Web_Api_Cem\\Web_Api_Cem.csproj",
+        "projectUniqueName": "D:\\Dev\\Net2022\\Web_Api_Cem2\\Web_Api_Cem.csproj",
         "projectName": "Web_Api_Cem",
-        "projectPath": "D:\\Dev\\Net2022\\Web_Api_Cem\\Web_Api_Cem\\Web_Api_Cem.csproj",
+        "projectPath": "D:\\Dev\\Net2022\\Web_Api_Cem2\\Web_Api_Cem.csproj",
         "packagesPath": "C:\\Users\\rdeheza\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Net2022\\Web_Api_Cem\\Web_Api_Cem\\obj\\",
+        "outputPath": "D:\\Dev\\Net2022\\Web_Api_Cem2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rdeheza\\AppData\\Roaming\\NuGet\\NuGet.Config",
